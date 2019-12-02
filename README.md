@@ -43,7 +43,7 @@ Para cada instância imprima uma linha contendo a probabilidade de sucesso do so
 1 3<br>
 
 ## Screenshots
-![AC](./IMG/AC.png)
+![AC](./img/AC.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
